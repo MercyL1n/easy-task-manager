@@ -1,0 +1,11 @@
+E:\manager\taskmanager\taskmanager\bin\Release\taskmanager.exe.config
+E:\manager\taskmanager\taskmanager\bin\Release\taskmanager.exe
+E:\manager\taskmanager\taskmanager\bin\Release\taskmanager.pdb
+E:\manager\taskmanager\taskmanager\obj\Release\taskmanager.csprojAssemblyReference.cache
+E:\manager\taskmanager\taskmanager\obj\Release\taskmanager.main_form.resources
+E:\manager\taskmanager\taskmanager\obj\Release\taskmanager.Properties.Resources.resources
+E:\manager\taskmanager\taskmanager\obj\Release\taskmanager.windows.run.resources
+E:\manager\taskmanager\taskmanager\obj\Release\taskmanager.csproj.GenerateResource.cache
+E:\manager\taskmanager\taskmanager\obj\Release\taskmanager.csproj.CoreCompileInputs.cache
+E:\manager\taskmanager\taskmanager\obj\Release\taskmanager.exe
+E:\manager\taskmanager\taskmanager\obj\Release\taskmanager.pdb
