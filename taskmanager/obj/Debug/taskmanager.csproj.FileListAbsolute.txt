@@ -9,3 +9,14 @@ E:\manager\taskmanager\taskmanager\obj\Debug\taskmanager.exe
 E:\manager\taskmanager\taskmanager\obj\Debug\taskmanager.pdb
 E:\manager\taskmanager\taskmanager\obj\Debug\taskmanager.main_form.resources
 E:\manager\taskmanager\taskmanager\obj\Debug\taskmanager.windows.run.resources
+E:\manager\taskmanager\easy-task-manager\taskmanager\bin\Debug\taskmanager.exe.config
+E:\manager\taskmanager\easy-task-manager\taskmanager\bin\Debug\taskmanager.exe
+E:\manager\taskmanager\easy-task-manager\taskmanager\bin\Debug\taskmanager.pdb
+E:\manager\taskmanager\easy-task-manager\taskmanager\obj\Debug\taskmanager.csprojAssemblyReference.cache
+E:\manager\taskmanager\easy-task-manager\taskmanager\obj\Debug\taskmanager.main_form.resources
+E:\manager\taskmanager\easy-task-manager\taskmanager\obj\Debug\taskmanager.Properties.Resources.resources
+E:\manager\taskmanager\easy-task-manager\taskmanager\obj\Debug\taskmanager.windows.run.resources
+E:\manager\taskmanager\easy-task-manager\taskmanager\obj\Debug\taskmanager.csproj.GenerateResource.cache
+E:\manager\taskmanager\easy-task-manager\taskmanager\obj\Debug\taskmanager.csproj.CoreCompileInputs.cache
+E:\manager\taskmanager\easy-task-manager\taskmanager\obj\Debug\taskmanager.exe
+E:\manager\taskmanager\easy-task-manager\taskmanager\obj\Debug\taskmanager.pdb

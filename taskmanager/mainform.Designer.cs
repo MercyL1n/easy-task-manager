@@ -35,6 +35,7 @@
             this.ram = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.btn_end = new System.Windows.Forms.Button();
             this.btn_run = new System.Windows.Forms.Button();
+            this.search = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // process_list
@@ -50,7 +51,6 @@
             this.process_list.TabIndex = 0;
             this.process_list.UseCompatibleStateImageBehavior = false;
             this.process_list.View = System.Windows.Forms.View.Details;
-            this.process_list.SelectedIndexChanged += new System.EventHandler(this.process_SelectedIndexChanged);
             // 
             // name
             // 
@@ -89,11 +89,22 @@
             this.btn_run.UseVisualStyleBackColor = true;
             this.btn_run.Click += new System.EventHandler(this.btn_run_Click);
             // 
+            // search
+            // 
+            this.search.Image = ((System.Drawing.Image)(resources.GetObject("search.Image")));
+            this.search.Location = new System.Drawing.Point(256, 407);
+            this.search.Name = "search";
+            this.search.Size = new System.Drawing.Size(32, 30);
+            this.search.TabIndex = 3;
+            this.search.UseVisualStyleBackColor = true;
+            this.search.Click += new System.EventHandler(this.search_Click);
+            // 
             // main_form
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(559, 450);
+            this.Controls.Add(this.search);
             this.Controls.Add(this.btn_run);
             this.Controls.Add(this.btn_end);
             this.Controls.Add(this.process_list);
@@ -115,6 +126,7 @@
         private System.Windows.Forms.ColumnHeader ram;
         private System.Windows.Forms.Button btn_end;
         private System.Windows.Forms.Button btn_run;
+        private System.Windows.Forms.Button search;
     }
 }
 
